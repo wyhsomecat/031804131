@@ -4,7 +4,7 @@
  - 编程语言：Python 3.7
  - 性能分析：profile 
 ## 运行
- - 在release文件夹下找到main.py，按照以下方式运行
+ - 在主文件夹下找到main.py，按照以下方式运行
 
 ```bash
 Python: python main.py  [原文文件] [抄袭版论文的文件] [答案文件]，如：
